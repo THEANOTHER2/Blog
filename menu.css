@@ -7,8 +7,12 @@ nav{
     background: #5465FF !important;
     position: relative;
     height: 70px !important;
+    transition: background-color 0.3s ease-in-out;
 }
-
+header .abajo{
+    background-color: black !important;
+    transition: background-color 0,1s !important;
+}
 .logo{
     color: #fff;
     font-family: "Dancing Script", cursive;
