@@ -49,3 +49,7 @@
 .pie_c{
     background-color: #f3f4fd !important;
 }
+.quitar_li{
+    text-decoration: none !important;
+    color: white;
+}
